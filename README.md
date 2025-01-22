@@ -1,4 +1,4 @@
-# Boston House Pricing Prediction
+# House Pricing Prediction
 
 # 1. Software And Tools Requirements
 
@@ -24,3 +24,14 @@ conda activate venv/
 # 4. Create requirements.txt file and run it
 
 pip install -r requirements.txt
+
+# 5. Create app.py and write the code 
+
+# 6. Create home.html and write the code
+
+# 7. If you want add image for background
+I added background image for the html for 
+this we need to create static folder in flask
+and need to place the image in this folder.
+
+# 8. Commit and push all changes to GIT
