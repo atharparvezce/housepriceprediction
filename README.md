@@ -35,3 +35,6 @@ this we need to create static folder in flask
 and need to place the image in this folder.
 
 # 8. Commit and push all changes to GIT
+
+# 9. For the deployment in Heroku 
+  First create Procfile
