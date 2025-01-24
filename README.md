@@ -11,11 +11,14 @@ d. GitCLI
 
 conda create -p venv python==3.7 -y 
 
+
 if the above command did not work then use below commands and check the compatibility accordingly
 
 conda update -n base -c defaults conda
 conda search python --channel conda-forge
 CONDA_SUBDIR=osx-64 conda create -p venv python=3.7 -y -c conda-forge
+
+** conda remove --name ENV_NAME --all ** delete conda env
 
 # 3. Activate the env
 
